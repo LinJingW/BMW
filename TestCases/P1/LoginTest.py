@@ -39,6 +39,7 @@ class LoginTest(unittest.TestCase):
         self.logIn.loginButton().click()
         self.driver.implicitly_wait(30)
         count = 0
+        
         while count < 8:
             self.logIn.enterPin()
             count = count + 1
