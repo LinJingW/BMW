@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6833fbc9-3ed1-467e-955e-7295657fbd02" name="Default" comment="">
+    <list default="true" id="6833fbc9-3ed1-467e-955e-7295657fbd02" name="Default" comment=" this is a  test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/P1/LoginTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/P1/LoginTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/RegisterBMW$LoginTest.coverage" NAME="LoginTest Coverage Results" MODIFIED="1527475512152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/P1" />
-    <SUITE FILE_PATH="coverage/RegisterBMW$Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState.coverage" NAME="Unittests for LoginTest.LoginTest.test_LoginScreenInitState Coverage Results" MODIFIED="1528178265241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/P1" />
+    <SUITE FILE_PATH="coverage/RegisterBMW$Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState.coverage" NAME="Unittests for LoginTest.LoginTest.test_LoginScreenInitState Coverage Results" MODIFIED="1528182855317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/P1" />
     <SUITE FILE_PATH="coverage/RegisterBMW$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1527586312236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -22,8 +21,8 @@
       <file leaf-file-name="LoginTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCases/P1/LoginTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+            <state relative-caret-position="352">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -90,8 +89,8 @@
       <file leaf-file-name="AcceptPrivacy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Screens/PrivacyScreen/AcceptPrivacy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            <state relative-caret-position="506">
+              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -106,6 +105,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -336,19 +336,24 @@
       <option name="project" value="LOCAL" />
       <updated>1527840633553</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" this is a  test">
+      <created>1528183678418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528183678418</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" this is a  test">
+      <created>1528184118263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528184118263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.05.30 at 17h 45m 33s.xml">
-      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.05.30 at 17h 47m 15s.xml">
-      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.05.31 at 10h 19m 31s.xml">
-      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.05.31 at 10h 23m 06s.xml">
       <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
     </history-entry>
@@ -370,17 +375,25 @@
     <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.06.05 at 13h 57m 48s.xml">
       <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.06.05 at 15h 05m 41s.xml">
+      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.06.05 at 15h 11m 36s.xml">
+      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.06.05 at 15h 15m 34s.xml">
+      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3015625" side_tool="true" visible="true" weight="0.29520696" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3015625" side_tool="true" visible="true" weight="0.30392158" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6984375" visible="true" weight="0.29520696" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6984375" weight="0.29520696" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18645833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -642,9 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/P1/WelcomeScreenTest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Screens/LoginScreen/LogIn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -673,17 +683,20 @@
     <entry file="file://$PROJECT_DIR$/TestData/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/P1/WelcomeScreenTest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Screens/PrivacyScreen/AcceptPrivacy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        <state relative-caret-position="506">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/P1/LoginTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+        <state relative-caret-position="352">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
