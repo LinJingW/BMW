@@ -10,8 +10,8 @@ from TestData import UserInfo
 class LoginTest(unittest.TestCase):
     desired_caps = {}
     desired_caps['platformName'] = 'Android'
-    desired_caps['platformVersion'] = '5.1'
-    desired_caps['deviceName'] = 'Galaxy J5'
+    desired_caps['platformVersion'] = '7.1.2'
+    desired_caps['deviceName'] = 'vivo_X9s_Plus'
     desired_caps['appPackage'] = 'de.bmw.connected.cn.int'
     desired_caps['appActivity'] = 'de.bmw.connected.lib.startup.views.StartupActivity'
     desired_caps['autoAcceptAlert'] = 'True'
