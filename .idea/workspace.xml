@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6833fbc9-3ed1-467e-955e-7295657fbd02" name="Default" comment="update mas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/UserInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/UserInfo.py" afterDir="false" />
-    </list>
+    <list default="true" id="6833fbc9-3ed1-467e-955e-7295657fbd02" name="Default" comment="update mas" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +11,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/RegisterBMW$LoginTest.coverage" NAME="LoginTest Coverage Results" MODIFIED="1527475512152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/P1" />
-    <SUITE FILE_PATH="coverage/RegisterBMW$Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState.coverage" NAME="Unittests for LoginTest.LoginTest.test_LoginScreenInitState Coverage Results" MODIFIED="1528182855317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/P1" />
+    <SUITE FILE_PATH="coverage/RegisterBMW$Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState.coverage" NAME="Unittests for LoginTest.LoginTest.test_LoginScreenInitState Coverage Results" MODIFIED="1528359833859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/P1" />
     <SUITE FILE_PATH="coverage/RegisterBMW$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1527586312236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -22,8 +19,8 @@
       <file leaf-file-name="LoginTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCases/P1/LoginTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="282">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -399,11 +396,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015625" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49895832" visible="true" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4984375" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6984375" weight="0.29520696" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -691,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/P1/LoginTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="282">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
