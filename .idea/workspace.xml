@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6833fbc9-3ed1-467e-955e-7295657fbd02" name="Default" comment="update mas" />
+    <list default="true" id="6833fbc9-3ed1-467e-955e-7295657fbd02" name="Default" comment="update mas">
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="LoginTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCases/P1/LoginTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            <state relative-caret-position="462">
+              <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -142,7 +144,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -363,9 +365,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.05.31 at 10h 23m 06s.xml">
-      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.05.31 at 10h 27m 45s.xml">
       <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
     </history-entry>
@@ -393,17 +392,20 @@
     <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.06.05 at 15h 15m 34s.xml">
       <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_LoginTest_LoginTest_test_LoginScreenInitState - 2018.06.07 at 16h 23m 57s.xml">
+      <configuration name="Unittests for LoginTest.LoginTest.test_LoginScreenInitState" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015625" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.30208334" side_tool="true" visible="true" weight="0.29520696" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4984375" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4984375" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6984375" weight="0.29520696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6979167" visible="true" weight="0.29520696" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18645833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -689,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/P1/LoginTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="462">
+          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
