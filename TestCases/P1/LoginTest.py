@@ -5,6 +5,7 @@ from AcceptPrivacy import AcceptPrivacy
 from LoginScreen import LogIn
 from LoginScreen.LogIn import LogIn
 from TestData import UserInfo
+import HTMLTestRunner
 
 
 class LoginTest(unittest.TestCase):
@@ -31,7 +32,7 @@ class LoginTest(unittest.TestCase):
         self.driver.quit()
 
     # 1.correct account + correct password
-    def test_LoginScreenInitState(self):
+    def test_LogIn(self):
         self.assertTrue(self.logIn.AccountTxtBox().is_displayed())
         self.logIn.AccountTxtBox().send_keys(UserInfo.valid_user)
         self.assertTrue(self.logIn.PwdTxtBox().is_displayed())
@@ -43,6 +44,25 @@ class LoginTest(unittest.TestCase):
             self.logIn.enterPin()
             count = count + 1
 
-    if __name__ == '__main__':
-        unittest.main(verbosity=2)
+    def test_LoginScreenInitState(self):
+        self.assertTrue(self.logIn.AccountTxtBox().is_displayed())
+        self.assertTrue(self.logIn.PwdTxtBox().is_displayed())
+        self.assertTrue((self.logIn.loginButton().is_displayed()))
+        self.assertTrue((self.logIn.forgetPwdLink().is_displayed()))
+        # self.assertTrue(self.logIn.createNewUser().is_displayed())
+
+
+if __name__ == '__main__':
+        suite = unittest.makeSuite(LoginTest)
+        filename = "C:\UIA\AutomationTestResult\\Report.html"
+        fp = file(filename, 'wb')
+        runner = HTMLTestRunner.HTMLTestRunner(
+            stream=fp,
+            title=u'BMW Automation test result',
+            description='TestReport',
+            verbosity=2
+        )
+        runner.run(suite)
+        # fp.close()
+
     # suite = unittest.testSuite()
